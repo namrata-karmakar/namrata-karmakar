@@ -34,9 +34,9 @@ I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<namrata-karmakar>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namrata-karmakar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=<namrata-karmakar>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=namrata-karmakar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
