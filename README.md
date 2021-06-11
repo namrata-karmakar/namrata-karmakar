@@ -26,6 +26,8 @@ I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Express.js?](https://namratakarmakar.hashnode.dev/what-is-expressjs)
+- [What to do when you can't code anymore](https://namratakarmakar.hashnode.dev/what-to-do-when-you-cant-code-anymore)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://namratakarmakar.hashnode.dev/)
