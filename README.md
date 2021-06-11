@@ -4,9 +4,9 @@
 
 An Electronics & Telecommunications Engineer by qualification, specializing in Back-end Web Development. My career progression has been a little different than most. I started my career with Cognizant Technology Solutions as a Programmer Analyst Trainee where I was trained in .NET and SQL. 
 
-After Cognizant, I worked in an Insurance Company as an Underwriter where I worked simultaneously in 3 different departments. After my stint at the Insurance Company, I moved on to the Banking Sector where I worked for 2.5 years. 
+After Cognizant, I worked for an Insurance Company as an Underwriter where I worked simultaneously in 3 different departments. After my stint at the Insurance Company, I moved on to the Banking Sector where I worked for 2.5 years. 
 
-However, my first love has always been Technology. I had even opted for Computer Science in my High School where I learned Basic OOP concepts and C++ for 2 years. Around the time the pandemic hit, I finally decided to take the plunge and get started with Web Development. After a lot of days working an essential services  full-time job during a pandemic and studying, I took up Web Development full-time in February of this year. 
+However, my first love has always been Technology. I had even opted for Computer Science in my High School where I learned Basic OOP concepts and C++ for 2 years. Around the time the pandemic hit, I finally decided to take the plunge and get started with Web Development. After a lot of days working a full-time essential services job during a pandemic and studying, I took up Web Development full-time in February of this year. 
 
 I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it out [here](https://twitter.com/knamrata23).
 
@@ -19,7 +19,7 @@ I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="ExpressJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="Angular Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg" alt="Bootstrap Logo" width="50" height="50"/> 
+<img src="http://cdn.worldvectorlogo.com/logos/javascript-2.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="NodeJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="ExpressJS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-4.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/angular.svg" alt="Angular Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5.svg" alt="Bootstrap Logo" width="50" height="50"/> 
 
 ---
 
