@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Namrata Karmakar!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Namrata Karmakar!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/knamrata23?style=social)
 
