@@ -23,6 +23,22 @@ I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it
 
 ---
 
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://namratakarmakar.hashnode.dev/)
+
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<namrata-karmakar>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=<namrata-karmakar>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **namrata-karmakar/namrata-karmakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
