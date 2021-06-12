@@ -11,8 +11,11 @@ However, my first love has always been Technology. I had even opted for Computer
 I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it out [here](https://twitter.com/knamrata23).
 
 - 🔭 I’m currently working on rewriting the front-end of a To-Do List Application using Angular. I've already built the back-end using Node.js, Express and TypeScript. You can find the repo [here](https://github.com/namrata-karmakar/todo-ts-tdd). I have also built the [front-end](https://github.com/namrata-karmakar/todo-vanilla-ui) for the same app using vanilla JS.
-- 🌱 I'm currently learning Angular and MySQL. I plan on learning NestJS, GraphQL and PostgreSQL in coming months. 
+
+- 🌱 I'm currently learning Angular and MySQL. I plan on learning NestJS, GraphQL and PostgreSQL in the coming months. 
+
 - 💼 I'm looking for my first Web Developer position. If you liked my profile, do think about recommending me to any job openings. Tech Stack is as mentioned in the toolbox below. 
+
 - 📚 I'm currently reading Head First Object-Oriented Analysis & Design by Brett McLaughlin to get a better understanding of how to write great software everytime by following OOAD principles. I've recently read Clean Code by Uncle Bob Martin and found it to be really insightful. Once I'm done with HFOOAD, I plan on starting Head First Design Patterns.
 
 ---
@@ -36,7 +39,7 @@ I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namrata-karmakar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namrata-karmakar&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=namrata-karmakar&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
