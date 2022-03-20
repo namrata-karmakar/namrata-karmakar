@@ -6,7 +6,7 @@ An Electronics & Telecommunications Engineer by qualification, specializing in B
 
 After Cognizant, I worked for an Insurance Company as an Underwriter where I worked simultaneously in 3 different departments. After my stint at the Insurance Company, I moved on to the Banking Sector where I worked for 2.5 years. 
 
-However, my first love has always been Technology. I had even opted for Computer Science in my High School where I learned Basic OOP concepts and C++ for 2 years. Around the time the pandemic hit, I finally decided to take the plunge and get started with Web Development. After a lot of days working a full-time essential services job during a pandemic and studying, I took up Web Development full-time in February of this year. 
+However, my first love has always been Technology. I had even opted for Computer Science in my High School where I learned Basic OOP concepts and C++ for 2 years. Around the time the pandemic hit, I finally decided to take the plunge and get started with Web Development. After a lot of days working a full-time essential services job during a pandemic and studying, I took up Web Development full-time in February of last year. 
 
 I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it out [here](https://twitter.com/knamrata23).
 
