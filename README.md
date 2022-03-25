@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/knamrata23?style=social)
 
-An Electronics & Telecommunications Engineer by qualification, specializing in Back-end Web Development. My career progression has been a little different than most. I started my career with Cognizant Technology Solutions as a Programmer Analyst Trainee where I was trained in .NET and SQL. 
+An Electronics & Telecommunications Engineer by qualification, Full-Stack Software Developer by profession. My career progression has been a little different than most. I started my career with Cognizant Technology Solutions as a Programmer Analyst Trainee where I was trained in C#, .NET and SQL. 
 
 After Cognizant, I worked for an Insurance Company as an Underwriter where I worked simultaneously in 3 different departments. After my stint at the Insurance Company, I moved on to the Banking Sector where I worked for 2.5 years. 
 
@@ -12,7 +12,7 @@ I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it
 
 - 🔭 I’m currently working on rewriting the front-end of a To-Do List Application using Angular. I've already built the back-end using Node.js, Express and TypeScript. You can find the repo [here](https://github.com/namrata-karmakar/todo-ts-tdd). I have also built the [front-end](https://github.com/namrata-karmakar/todo-vanilla-ui) for the same app using vanilla JS.
 
-- 🌱 I'm currently learning Angular and MySQL. I plan on learning NestJS, GraphQL and PostgreSQL in the coming months. 
+- 🌱 I'm currently using Angular and NestJS at my workplace. I plan on learning GraphQL and PostgreSQL in the coming months. 
 
 - 💼 I'm currently working as a Programmer Analyst at IrisLogic Inc. I'm not open to new positions, however, I'm always open to chat about any opportunities. You may approach me via Twitter.
 
