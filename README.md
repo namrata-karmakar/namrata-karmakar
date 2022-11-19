@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/knamrata23?style=social)
 
-An Electronics & Telecommunications Engineer by qualification, Full-Stack Software Developer by profession. My career progression has been a little different than most. I started my career with Cognizant Technology Solutions as a Programmer Analyst Trainee where I was trained in C#, .NET and SQL. 
+An Electronics & Telecommunications Engineer by qualification, currently pursuing my Master's degree in Applied Computer Science, Full-Stack Software Developer by profession. My career progression has been a little different than most. I started my career with Cognizant Technology Solutions as a Software Developer where I was trained in C#, .NET and SQL. 
 
 After Cognizant, I worked for an Insurance Company as an Underwriter where I worked simultaneously in 3 different departments. After my stint at the Insurance Company, I moved on to the Banking Sector where I worked for 2.5 years. 
 
@@ -14,7 +14,7 @@ I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it
 
 - 🌱 I'm currently using Angular and NestJS at my workplace. I plan on learning GraphQL and PostgreSQL in the coming months. 
 
-- 💼 I'm currently working as a Programmer Analyst at IrisLogic Inc. I'm not open to new positions, however, I'm always open to chat about any opportunities. You may approach me via Twitter.
+- 💼 I'm currently working as a Software Developer at IrisLogic Inc. I'm open to Working Student opportunities.
 
 - 📚 I'm currently reading Head First Object-Oriented Analysis & Design by Brett McLaughlin to get a better understanding of how to write great software everytime by following OOAD principles. I've recently read Clean Code by Uncle Bob Martin and found it to be really insightful. Once I'm done with HFOOAD, I plan on starting Head First Design Patterns.
 
