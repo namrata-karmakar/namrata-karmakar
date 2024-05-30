@@ -2,21 +2,19 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/knamrata23?style=social)
 
-An Electronics & Telecommunications Engineer by qualification, currently pursuing my Master's degree in Applied Computer Science, Full-Stack Software Developer by profession. My career progression has been a little different than most. I started my career with Cognizant Technology Solutions as a Software Developer where I was trained in C#, .NET and SQL. 
+I started coding in C++ in school and was hooked after I saw my first Hello world program print on the turbo c++ console. But life happens and my career took me in a different direction. I landed up in banking.
 
-After Cognizant, I worked for an Insurance Company as an Underwriter where I worked simultaneously in 3 different departments. After my stint at the Insurance Company, I moved on to the Banking Sector where I worked for 2.5 years. 
+However, my first love has always been Technology. I had even opted for Computer Science in my High School where I learned Basic OOP concepts and C++ for 2 years. Around the time the pandemic hit, I finally decided to take the plunge and get started with Web Development. After a lot of days working a full-time essential services job during a pandemic and studying, I took up Web Development full-time in February of 2021. 
 
-However, my first love has always been Technology. I had even opted for Computer Science in my High School where I learned Basic OOP concepts and C++ for 2 years. Around the time the pandemic hit, I finally decided to take the plunge and get started with Web Development. After a lot of days working a full-time essential services job during a pandemic and studying, I took up Web Development full-time in February of last year. 
+I have shared my progress on Twitter using the #100DaysOfCode. Do check it out [here](https://twitter.com/knamrata23).
 
-I have been sharing my progress on Twitter using the #100DaysOfCode. Do check it out [here](https://twitter.com/knamrata23).
+- 🔭 I’m currently pursuing my masters degree in Applied Computer Science from Heidelberg, Germany.
 
-- 🔭 I’m currently working on rewriting the front-end of a To-Do List Application using Angular. I've already built the back-end using Node.js, Express and TypeScript. You can find the repo [here](https://github.com/namrata-karmakar/todo-ts-tdd). I have also built the [front-end](https://github.com/namrata-karmakar/todo-vanilla-ui) for the same app using vanilla JS.
+- 🌱 I use Angular and NestJS at my workplace for software development. I also use PowerBI, Azure Data Factory and SQL for data-related activities.
 
-- 🌱 I'm currently using Angular and NestJS at my workplace. I plan on learning GraphQL and PostgreSQL in the coming months. 
+- 💼 I'm currently working as a Data Analyst at E.ON Digital Technology. I'm open to full-time opportunities starting October, 2024.
 
-- 💼 I'm currently working as a Software Developer at IrisLogic Inc. I'm open to Working Student opportunities.
-
-- 📚 I'm currently reading Head First Object-Oriented Analysis & Design by Brett McLaughlin to get a better understanding of how to write great software everytime by following OOAD principles. I've recently read Clean Code by Uncle Bob Martin and found it to be really insightful. Once I'm done with HFOOAD, I plan on starting Head First Design Patterns.
+- 📚 A book that has had a lot of impact on my software development journey is Clean Code by Uncle Bob Martin. I found it to be really insightful.
 
 ---
 
