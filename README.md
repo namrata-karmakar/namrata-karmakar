@@ -12,8 +12,6 @@ I have shared my progress on Twitter using the #100DaysOfCode. Do check it out [
 
 - 🌱 I use Angular and NestJS at my workplace for software development. I also use PowerBI, Azure Data Factory and SQL for data-related activities.
 
-- 💼 I'm currently working as a Data Analyst at E.ON Digital Technology. I'm open to full-time opportunities starting October, 2024.
-
 - 📚 A book that has had a lot of impact on my software development journey is Clean Code by Uncle Bob Martin. I found it to be really insightful.
 
 ---
